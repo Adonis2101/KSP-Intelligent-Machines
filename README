@@ -1,0 +1,15 @@
+KSP-Intelligent-Machines
+========================
+
+Intelligent Machines for Kerbal Space Program
+https://github.com/Adonis2101/KSP-Intelligent-Machines
+
+Includes:
+	- Flight status alerts.
+	- Radio altimeter alerts.
+
+Objectives:
+	- Voice command of capsules.
+
+Changes:
+	V0.1 - Adds audible alerts for Radio Altimeter and Flight Status.
